@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import FaqItem from './FaqItem';
 import './style.css';
 import faq from './data';
 class Faq extends Component {
